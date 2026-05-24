@@ -794,7 +794,7 @@ header .navbar {
   border-radius: 20px;
   position: relative;
 }
-/* .contact-container::before {
+.contact-container::before {
   content: "";
   width: 102%;
   height: 0%;
@@ -811,7 +811,7 @@ header .navbar {
   filter: drop-shadow(0 0 20px #00abf0);
   background: linear-gradient(to bottom, #000cf0, #f700ff, #04c0ff);
   height: 102%;
-} */
+} 
 
 .contact-form {
   display: flex;
