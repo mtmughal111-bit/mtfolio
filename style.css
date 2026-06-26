@@ -138,23 +138,23 @@ header .navbar {
 }
 
 .img-cont #slider-img-1 {
-  background-image: url("Data/bg2.png");
+  background-image: url("bg2.png");
   background-position: center;
 }
 .img-cont #slider-img-2 {
-  background-image: url("Data/bg1.jpg");
+  background-image: url("bg1.jpg");
   background-position: center;
 }
 .img-cont #slider-img-3 {
-  background-image: url("Data/bg3.jpg");
+  background-image: url("bg3.jpg");
   background-position: center;
 }
 .img-cont #slider-img-4 {
-  background-image: url("Data/bg4.jpg");
+  background-image: url("bg4.jpg");
   background-position: center;
 }
 .img-cont #slider-img-5 {
-  background-image: url("Data/bg5.jpg");
+  background-image: url("bg5.jpg");
   background-position: center;
 }
 
